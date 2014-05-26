@@ -1,5 +1,5 @@
-Sublime 3 Settings
-==================
+Sublime 3 Setup
+===============
 
 
 Install Package Control
