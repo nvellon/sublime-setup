@@ -68,10 +68,12 @@ Package Settings - PHP Code Sniffer - Settings - User:
     {
         "show_debug": true,
 
+        "phpcs_php_path": "/usr/bin/php",
+
         "phpcs_executable_path": "/home/nvellon/.composer/vendor/bin/phpcs",
 
         "phpcs_additional_args": {
-            "--standard": "~/repos/ruleset.xml"
+            "--standard": "/home/nvellon/repos/ruleset.xml"
         }
     }
 
